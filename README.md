@@ -1,10 +1,10 @@
-# Active Directory Home Lab
+
 
 <br />
 
 
 
-<h2>Pictures:</h2>
+<h2>Active Directory Home Lab Results:</h2>
 
 <p align="center">
 Server Manager Dashboard: <br/>
