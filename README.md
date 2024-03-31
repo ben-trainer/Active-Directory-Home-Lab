@@ -7,16 +7,16 @@
 <h2>Projects Walkthrough:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<"[LINK](https://docs.google.com/presentation/d/1aMfayKAEVwax-6dW2R99QyyRoeYiwOwo1BIZa9k2RKA/edit?usp=sharing)" height="80%" width="80%" alt="NAME"/>
+Microsoft Active Directory on Oracle VM Virtual Box: <br/>
+<img src="https://imgur.com/yHGO8KD.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="LINK" height="80%" width="80%" alt="NAME"/>
+Both Virtual Machines Running on Oracle VirtualBox:  <br/>
+<img src="https://imgur.com/pK7p2SW.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="LINK" height="80%" width="80%" alt="NAME"/>
+Client Connect To Domain: <br/>
+<img src="(https://imgur.com/LVlMfG8)" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Confirm your selection:  <br/>
