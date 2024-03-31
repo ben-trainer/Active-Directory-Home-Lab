@@ -16,7 +16,7 @@ Both Virtual Machines Running on Oracle VirtualBox:  <br/>
 <br />
 <br />
 Client Connected To Domain: <br/>
-<img src="(https://imgur.com/a5ismH0.png)" height="80%" width="80%" alt=""/>
+<img src="https://imgur.com/a5ismH0.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Pinging www.google.com To Show Connectivity:  <br/>
